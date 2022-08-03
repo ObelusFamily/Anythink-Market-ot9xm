@@ -19,4 +19,4 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 3. Check if Backend is running at :- http://localhost:3000/api/ping
 4. Check if Frontend is running at :- http://localhost:3001/register
 
-If everything is working properly then it's done!
+If everything is working properly then it's done.
